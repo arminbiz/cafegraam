@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549336195037",
+    "firebase_url": "https://cafegraam.firebaseio.com",
+    "project_id": "cafegraam",
+    "storage_bucket": "cafegraam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549336195037:android:e9b46957b02ef51b",
+        "android_client_info": {
+          "package_name": "com.amgdroid.cafegraam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549336195037-5la00gkf1o1kg294lmb91bdr5co28pa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5li-gwxOj5cBMeIpcV9AkdsTHENB3RI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
